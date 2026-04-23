@@ -1,0 +1,10 @@
+# The Wikipedia page-title dump is ~108 MB and can be re-downloaded by
+# fetch_gender_titles_dump.py / find_women_men_in.py on demand. Skip it.
+enwiki-latest-all-titles-in-ns0.gz
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# macOS metadata
+.DS_Store
