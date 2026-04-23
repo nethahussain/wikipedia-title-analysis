@@ -63,12 +63,12 @@ are the "Men in…" articles.
 ## The picture on the Women-in side
 
 The Women-in picture is almost exactly inverted. Of 587 live articles,
-four in five are topic articles. The remainder break down into feminist
-organizations (*Women in Animation*, *Women in Aviation International*,
-*Women in Trucking Association*), films — including a surprisingly
-robust subgenre of 1970s "women in prison" exploitation cinema — a
-handful of awards, and the expected assortment of novels and albums.
-Nothing unusual.
+four in five are topic articles. The remainder break down into
+professional and advocacy organizations (*Women in Animation*, *Women
+in Aviation International*), films — including a surprisingly robust
+subgenre of 1970s "women in prison" exploitation cinema — a handful of
+awards, and the expected assortment of novels and albums. Nothing
+unusual.
 
 More revealing is the shape of those 490 topic articles. The biggest
 slice, by a wide margin, is geographic: roughly 175 of the 490 — about
@@ -117,14 +117,14 @@ male-skewed community, is said to fall short of covering men's
 experience. That reading may not be the right one.
 
 The "Women in X" title exists because, for most values of X, the
-generic article is already implicitly about men. "The history of the
-Canadian Parliament" was, until women were allowed to sit in it,
-entirely a history of men — yet the article about it is not called
-"Men in the Canadian Parliament". It is called "History of the Canadian
-Parliament". Creating *Women in the 23rd Canadian Parliament* is a way
-of surfacing a body of material that would otherwise be lost in the
-male default. A symmetrical "Men in the 23rd Canadian Parliament"
-article would, in the limit, be the whole parliament article with the
+generic article is already implicitly about men. The *Parliament of
+Canada* article describes an institution whose membership was, for a
+large part of its history, entirely male — yet it is not called "Men
+in the Canadian Parliament". It is simply called "Parliament of
+Canada". Creating *Women in the 23rd Canadian Parliament* is a way of
+surfacing a body of material that would otherwise be lost in the male
+default. A symmetrical "Men in the 23rd Canadian Parliament" article
+would, in the limit, be the whole parliament article with the
 interesting bits removed.
 
 This is precisely why the few Men-in articles that do exist are
@@ -146,11 +146,10 @@ misfire. The first sentence of each article has been retained in the
 published CSV so that any reader can audit the labels directly.
 
 Title prefixes are also only one slice of Wikipedia's coverage of
-gender. Articles such as *Gender disparity in computing*, *Sexism in
-science*, or *Female academics in early modern England* do not begin
-with any of the six patterns searched for here, and are not counted.
-What has been mapped is a linguistic convention, not a full content
-census.
+gender. Articles such as *Gender disparity in computing*, *Gender bias
+on Wikipedia*, or *Female education* do not begin with any of the six
+patterns searched for here, and are not counted. What has been mapped
+is a linguistic convention, not a full content census.
 
 That convention, once noticed, is hard to unsee. The "Women in…" title
 is not so much a content category as a structural repair. Wikipedia is
