@@ -111,29 +111,43 @@ consistently across thousands of articles.
 
 ## Is 70-to-1 a gap?
 
-On a first read, the 490-to-7 ratio can sound like a glaring
-imbalance — one more way in which Wikipedia, famously edited by a
-male-skewed community, is said to fall short of covering men's
-experience. That reading may not be the right one.
+Read quickly, the 490-to-7 ratio can sound like a glaring imbalance —
+one more way in which Wikipedia, edited by a famously male-skewed
+community, is said to fall short of covering men's experience. That
+reading misses what the title convention is doing.
 
-The "Women in X" title exists because, for most values of X, the
-generic article is already implicitly about men. "The history of the
-Canadian Parliament" was, until women were allowed to sit in it,
-entirely a history of men — yet the article about it is not called
-"Men in the Canadian Parliament". It is called "History of the Canadian
-Parliament". Creating *Women in the 23rd Canadian Parliament* is a way
-of surfacing a body of material that would otherwise be lost in the
-male default. A symmetrical "Men in the 23rd Canadian Parliament"
-article would, in the limit, be the whole parliament article with the
-interesting bits removed.
+Sociologists and linguists have long described this pattern in terms of
+*markedness*. In a society where men are treated as the default category
+of person, the male version of a role goes unmarked — "doctor",
+"soldier", "parliamentarian" — while the female version requires a
+modifier. The same logic shapes Wikipedia's generic articles. *History
+of the Canadian Parliament* describes, for most of its span, the
+working lives of men, but is not titled *Men in the Canadian Parliament*.
+Men are the unspoken subject. Women, by contrast, appear in such
+articles as a later addition or a subsection, which is why a separate
+title like *Women in the 23rd Canadian Parliament* has to be invented
+to make their participation legible. A symmetrical *Men in the 23rd
+Canadian Parliament* would, in practice, be the whole parliament
+article with the novel material removed.
 
-This is precisely why the few Men-in articles that do exist are
-clustered on professions where men are the minority: nursing, early
-childhood education, feminism. In those domains, the generic article
-("Nursing", "Early childhood education") is implicitly about women, and
-the "Men in X" frame takes on the same informational weight that
-"Women in X" carries elsewhere. The pattern is symmetrical in its
-logic, even though the numbers are wildly asymmetrical.
+The 490 "Women in…" articles are therefore less a content surplus than
+a visibility correction. Each one takes material that would otherwise
+dissolve into the male-default narrative — women's suffrage campaigns,
+their legal restrictions, their participation rates, their authorship —
+and gives it a standalone URL, a watchlist, and a set of interwiki
+links. Editorially, the title pattern functions as a compensation
+mechanism for the encyclopaedic conventions that made the correction
+necessary in the first place.
+
+The seven "Men in…" topic articles that do exist confirm the
+mechanism, rather than contradict it. Each one sits in a domain where
+the generic article is tacitly coded female: *Nursing*, *Early
+childhood education*, *Feminism*. In those fields the marked category
+flips, and the "Men in X" title takes on the same informational weight
+that "Women in X" carries in the opposite direction. The pattern is
+symmetrical in its sociolinguistic logic, even as the tally, 490 to 7,
+traces the cultural domains in which men are still taken to be the
+human default.
 
 ## Two honest caveats
 
