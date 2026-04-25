@@ -3,8 +3,6 @@
 Code and data for an analysis of English Wikipedia articles whose titles
 begin with "Women in", "Men in", "Females in", or "Males in".
 
-The analysis is written up in [`REPORT.md`](REPORT.md).
-
 ## What's here
 
 ### Scripts (run in this order)
